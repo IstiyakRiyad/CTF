@@ -1,4 +1,4 @@
-CTF Flags
+# CTF Flags
 
   1. Bandit -> 8
   2. Behemoth -> 1

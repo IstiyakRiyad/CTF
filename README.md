@@ -1,2 +1,3 @@
-# CTF
-Simple CTF flags 
+# CTF -> Capture The Flag 
+
+  Simple CTF flags 
